@@ -1,4 +1,4 @@
-- type: constructionGraph # I HATE CONSTRUCTION GRAPHS !!!!!!!!!
+﻿- type: constructionGraph # I HATE CONSTRUCTION GRAPHS !!!!!!!!!
   id: Wallpaper
   start: start
   graph:
